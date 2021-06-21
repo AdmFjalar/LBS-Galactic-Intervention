@@ -1,0 +1,156 @@
+Using pre-set license
+Built from 'trunk' branch; Version is '2020.2.0b2 (90b2443a8df1) revision 9482820'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'sv' Physical Memory: 16141 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.0b2\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/olipo/OneDrive/Dokument/UNITY PROJECTS/Top-Down RPG
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+55777
+Successfully changed project path to: C:/Users/olipo/OneDrive/Dokument/UNITY PROJECTS/Top-Down RPG
+C:/Users/olipo/OneDrive/Dokument/UNITY PROJECTS/Top-Down RPG
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 63.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.0b2 (90b2443a8df1)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.0b2/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/olipo/OneDrive/Dokument/UNITY PROJECTS/Top-Down RPG/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2070 with Max-Q Design (ID=0x1f10)
+    Vendor:   
+    VRAM:     8031 MB
+    Driver:   27.21.14.6589
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.0b2/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.0b2/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.0b2/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56000
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004444 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 49.99 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.094 seconds
+Registering precompiled user dll's ...
+Registered in 0.112243 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\olipo\OneDrive\Dokument\UNITY PROJECTS\Top-Down RPG\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.147 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.79 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1357 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.8 MB.
+System memory in use after: 64.9 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 1779.
+Total: 2.795700 ms (FindLiveObjects: 0.742000 ms CreateObjectMapping: 0.150700 ms MarkObjects: 1.835100 ms  DeleteObjects: 0.066100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Sound/Music/05 Come and Find Me.mp3
+  artifactKey: Guid(bba561c600308724d8f48a84d66eeb6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound/Music/05 Come and Find Me.mp3 using Guid(bba561c600308724d8f48a84d66eeb6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '002726a62857cddcdf9ef7490b00f53c') in 0.179518 seconds
+  Import took 0.183000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/Sound/Music/Demo1_8bit_WAV_lowered.wav
+  artifactKey: Guid(da464b75e6715ee4a9b164312d5a7a50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound/Music/Demo1_8bit_WAV_lowered.wav using Guid(da464b75e6715ee4a9b164312d5a7a50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f00bb2708bf91423efebf305acfbc4a') in 0.029017 seconds
+  Import took 0.032130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/Sound/Music
+  artifactKey: Guid(155916a83bdb37c4c8b84285fdfda48d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound/Music using Guid(155916a83bdb37c4c8b84285fdfda48d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08e3f630eade39d0f9e1da5b4061b08a') in 0.005435 seconds
+  Import took 0.010237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000585 seconds.
+  path: Assets/Sound/Music/太陽にほえろ! メインテーマ'79 TVバージョン.mp3
+  artifactKey: Guid(468a2b1ad0f654546a81557250b368ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound/Music/太陽にほえろ! メインテーマ'79 TVバージョン.mp3 using Guid(468a2b1ad0f654546a81557250b368ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acc5a6d365cca72a8815ec83b99a288f') in 0.020434 seconds
+  Import took 0.024645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/Sound/Music/Demo1_8bit_WAV.wav
+  artifactKey: Guid(ab47d07c9e6c07b4c9ae673290c44721) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound/Music/Demo1_8bit_WAV.wav using Guid(ab47d07c9e6c07b4c9ae673290c44721) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '720060a07987c27b7da992d561cfb5c5') in 0.018563 seconds
+  Import took 0.022052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Sound/MainMixer.mixer
+  artifactKey: Guid(a497a12a385f3b94aabfb75f44441e1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound/MainMixer.mixer using Guid(a497a12a385f3b94aabfb75f44441e1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42ec7844d94dc2ed8930c7c6d2b97ade') in 0.010804 seconds
+  Import took 0.016120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000459 seconds.
+  path: Assets/Sound/Music/12 - At The End of the Day.mp3
+  artifactKey: Guid(7fdec7248b003a3408d796104129cef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound/Music/12 - At The End of the Day.mp3 using Guid(7fdec7248b003a3408d796104129cef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fce199a4b27f774fd4a2ace897c19272') in 0.023664 seconds
+  Import took 0.030028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/Sound/Sound Effects
+  artifactKey: Guid(fc8406cab4ebe3d45a635103f087c98f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound/Sound Effects using Guid(fc8406cab4ebe3d45a635103f087c98f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04339d00b0b5124736dbae84cefc71f9') in 0.007913 seconds
+  Import took 0.012578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/Sound/Music/8-Bit RPG Music - Boss Battle Original Composition.mp3
+  artifactKey: Guid(c2b955590fefcbb4a9f3482eba97428e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound/Music/8-Bit RPG Music - Boss Battle Original Composition.mp3 using Guid(c2b955590fefcbb4a9f3482eba97428e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31496af97af640de56dd2e4c0ca16ed7') in 0.028100 seconds
+  Import took 0.031367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Sound/Music/Demo1_8bit_MP3.mp3
+  artifactKey: Guid(48730d62f7921ad438124e0ab1ca6420) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound/Music/Demo1_8bit_MP3.mp3 using Guid(48730d62f7921ad438124e0ab1ca6420) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4a91a62e0787598078c13f6dc8cbe38') in 0.017402 seconds
+  Import took 0.020992 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

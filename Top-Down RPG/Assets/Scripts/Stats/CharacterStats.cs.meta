@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: af297c696745c1d4f90f6cde6e156828
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - animator: {instanceID: 0}
+  - poof: {fileID: 1229569538603670, guid: 8db59fe06ecf3b64e9b6922cdb74e293, type: 2}
+  - damageTextObj: {instanceID: 0}
+  - damageText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

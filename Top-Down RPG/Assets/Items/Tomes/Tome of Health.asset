@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9a22955059d0f24890855557a5bb06b, type: 3}
+  m_Name: Tome of Health
+  m_EditorClassIdentifier: 
+  name: Tome of Health
+  icon: {fileID: 21300000, guid: f939dfb36befef546a64341e40e2d26a, type: 3}
+  isDefault: 0
+  isJunk: 0
+  readable: 1
+  price: 100
+  dialogue:
+    name: Tome of Health
+    enemy: 0
+    dying: 0
+    trader: 0
+    sentences:
+    - Abra kadabra.
+    - You've been healed at the hands of god!
+    icons:
+    - {fileID: 21300000, guid: f939dfb36befef546a64341e40e2d26a, type: 3}
+    dialogueSounds: []
+    deathSentences: []
+    deathIcons: []
+    deathSounds: []
+  Player: {fileID: 0}
+  DialogueHolder: {fileID: 7078689227345133151, guid: c06c42a50cba63648bc8f1e435164491,
+    type: 3}
+  ManaRes: 0
+  HealthRes: 50
+  XPRes: 0
